@@ -1,0 +1,99 @@
+27457
+kaustubh
+MAJOR   
+program doesnt run properly at times.
+HIGH  
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
+28257
+vivek
+COSMETIC
+Doesn't identify the language at times.
+MEDIUM
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
+29384
+Anish
+MINOR   
+Unable the kill the application.
+LOW   
+27/5/20
+ASSIGNED    
+waman               
+End
+29717
+Nishanth
+MAJOR   
+Alignment issues.
+LOW   
+27/5/20
+DELIVERED   
+Amy                 
+End
+29988
+Vignesh
+MINOR   
+The comments don't update.
+MEDIUM
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
+30187
+Pratham
+MINOR   
+The likes don't update.
+LOW   
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
+30971
+Niraj
+MINOR   
+Back-ups doesnt occur properly.
+HIGH  
+27/5/20
+FIXED       
+avici               
+End
+31741
+Messi
+MINOR   
+Doesn't detect alien language.
+HIGH  
+27/5/20
+NOT ASSIGNED
+ronaldo             
+End
+32457
+Tony Stark
+COSMETIC
+The app is too basic.
+HIGH  
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
+2432
+Nishanth
+MINOR   
+Previous bug not resolved properly.
+HIGH  
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
+6011
+Pratham
+MINOR   
+Previous bug not fixed properly
+LOW   
+27/5/20
+NOT ASSIGNED
+TO BE ASSIGNED      
+End
